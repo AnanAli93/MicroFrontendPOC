@@ -1,0 +1,14 @@
+# Compiled output
+/dist
+/out-tsc
+/tmp
+
+# Dependencies
+/node_modules
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Logs and Debugging
+*.log
